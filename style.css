@@ -1,0 +1,15 @@
+.my-img{
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+}
+.background{
+    background-color: aquamarine;
+}
+#cv-template{
+    display: none;
+}
+a{
+    text-decoration: unset;
+    color: unset;
+}
